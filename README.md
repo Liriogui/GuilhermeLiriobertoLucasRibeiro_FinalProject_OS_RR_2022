@@ -26,7 +26,7 @@ Adicionar ferramentas, softwares, hardwares para construção do projeto
 
 * **Guilherme Lirioberto** - *Documentação e Design* - [Guilherme Lirioberto](https://github.com/Liriogui)
 * **Lucas Ribeiro Alvino** - *Documentação e programação* - [Lucas Alvino](https://github.com/LuKasAlvino)
-* **Natalia Almada** - *programação* - [Natália Almada](https://github.com/nataliaalmada)
+* **Natalia Almada** - *Programação* - [Natália Almada](https://github.com/nataliaalmada)
 
 ## 📄 Licença
 
