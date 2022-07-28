@@ -20,7 +20,9 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## 🛠️ Construído com
 
-Adicionar ferramentas, softwares, hardwares para construção do projeto
+Visual Studio Code
+Canva
+Word
 
 ## ✒️ Autores
 
