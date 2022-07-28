@@ -20,9 +20,9 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## 🛠️ Construído com
 
-Visual Studio Code
-Canva
-Word
+Visual Studio Code //
+Canva //
+Word 
 
 ## ✒️ Autores
 
