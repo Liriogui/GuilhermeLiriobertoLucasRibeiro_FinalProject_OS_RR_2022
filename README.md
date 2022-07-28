@@ -14,11 +14,11 @@ Através de pesquisas referenciais, moldamos esse projeto.
 
 ## ⚙️ Executando os testes/ Running Tests
 
-**Explicar como executar os testes automatizados para este sistema.**
+A ferramenta mais ultilizada para a execução dos testes foi VScode (Visual Studio Code).
 
 ## 📦 Desenvolvimento/ Development
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Pesquisas relacionadas ao projeto, modificação e optimização dos codigos usados como referencia e duas pessoas executando os testes para procurar bugs e falhas
 
 ## 🛠️ Construído com / Built with
 
