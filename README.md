@@ -30,6 +30,6 @@ Adicionar ferramentas, softwares, hardwares para construção do projeto
 
 ## 📄 Licença
 
-Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE.md](https://github.com/Liriogui/GuilhermeLiriobertoLucasRibeiro_FinalProject_OS_RR_2022/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença (GNU General Public License v3.0) - veja o arquivo [LICENSE.md](https://github.com/Liriogui/GuilhermeLiriobertoLucasRibeiro_FinalProject_OS_RR_2022/blob/main/LICENSE) para detalhes.
 
 ## 🎁 Expressões de gratidão
