@@ -1,9 +1,9 @@
 # GuilhermeLiriobertoLucasRibeiroNataliaAlmada_FinalProject_OS_RR_2022
-## Projeto relacionado a disciplina de Sistemas Operacionais (DCC403). 
+## Projeto referente à disciplina de Sistemas Operacionais (DCC403) da Universidade Federal de Roraima(UFRR). 
 
 <h1 align="center"> COMPRESSED NETWORK COMMUNICATION </h1>
 
-Projeto relacionado a disciplina de Sistemas Operacionais (DCC403), relacionado a comunicação em rede onde se é definido um conjunto de protocolos que permitem que programas se comuniquem entre sí, com diferencial de compressão em que esses dados terão que ser submetidos.
+Projeto referente à disciplina de Sistemas Operacionais (DCC403), relacionado à comunicação em rede, onde se é definido um conjunto de protocolos que permitem que programas se comuniquem entre si, com diferencial de compressão em que esses dados terão que ser submetidos.
 
 
 ## 🚀 Começando
