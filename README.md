@@ -36,4 +36,6 @@ Word
 
 Este projeto está sob a licença (GNU General Public License v3.0) - veja o arquivo [LICENSE.md](https://github.com/Liriogui/GuilhermeLiriobertoLucasRibeiro_FinalProject_OS_RR_2022/blob/main/LICENSE) para detalhes.
 
-## 🎁 Expressões de gratidão/Gratefulness expressions
+## 🎁 Expressões de gratidão/Referençias
+https://github.com/nikhilroxtomar/TCP-Client-Server-Implementation-in-C / https://pt.wikipedia.org/wiki/Protocolo_de_controle_de_transmiss%C3%A3o / https://www.youtube.com/watch?v=iM8ofXQCY20&ab_channel=Ch-10AppliedSc%2CAlliedPhysicalandChemicalsc / https://www.youtube.com/watch?v=vgvLb9m8muE / https://github.com/ElectricRCAircraftGuy/eRCaGuy_hello_world/blob/master/c/socket__geeksforgeeks_udp_server_GS_edit_GREAT.c / https://www.youtube.com/watch?v=io2G2yW1Qk8&ab_channel=IdiotDeveloper 
+
